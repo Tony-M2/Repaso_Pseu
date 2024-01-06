@@ -3,7 +3,12 @@
 //DATOS DE ENTRADA: ingresar 3 edades
 //INFORMACION DE SALIDA: saber si hay edades que sean mayor o menor y si cumple la mayoria de edad
 //VARIABLE: num_edad1,num_edad2,num_edad3,M_1,M_2,M_3 como entero
-
+//DISEÑO:
+//DEFINICION DE PROBLEMA: Determinar menor de 3 edades
+//DATOS DE ENTRADA: pedir al usuario 3 edades a comparar
+//DATOS A SOLICITAR: num_edad1,num_edad2,num_edad3,M_1,M_2,M_3 como entero
+//COMPARACION: ver cual edad es mayor o menor 
+//INFORMACION DE SALIDA: mostar si la edad es mayor o menor 
 Algoritmo mayor_o_menor_de_3_edades
 	Definir num_edad1,num_edad2,num_edad3,M_1,M_2,M_3  Como Entero
 	Mostrar "Introduce las edades"
